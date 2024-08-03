@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 定义颜色
+#define color
 re="\033[0m"
 red="\033[1;91m"
 green="\e[1;32m"
