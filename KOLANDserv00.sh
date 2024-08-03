@@ -462,7 +462,7 @@ menu() {
    echo -e "${green}Script address：${re}${yellow}https://github.com/eooce/Sing-box${re}\n"
    echo -e "${green}Feedback Forum：${re}${yellow}https://bbs.vps8.me${re}\n"
    echo -e "${green}TGfeedback group：${re}${yellow}https://t.me/vps888${re}\n"
-   echo -e "${green}YOUTUBE CHANNEL：${re}${yellow}https://www.youtube.com/@kolandone${re}\n"
+   echo -e "${green}KOLAND：${re}${yellow}https://www.youtube.com/@kolandone${re}\n"
    purple "Please reprint from a well-known source and please do not abuse it.\n"
    green "1. Install sing-box"
    echo  "==============="
